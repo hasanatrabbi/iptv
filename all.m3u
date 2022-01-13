@@ -36,7 +36,7 @@ https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla", Independent TV
 http://208.86.19.21/601.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
-http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
+http://edge.thunderbd.com:8081/roarzone/51/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIyIDM6MjA6MjEgUE0maGFzaF92YWx1ZT1HQmwwL0ZtMjZjYlFVaWZFbVpXSjd3PT0mdmFsaWRtaW51dGVzPTImaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 HD
 https://rhridoy136.shortcm.li/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
