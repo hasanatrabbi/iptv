@@ -14,7 +14,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV 2
-http://edge.thunderbd.com:8081/roarzone/54/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIyIDM6MTc6MjAgUE0maGFzaF92YWx1ZT1UcDQ2bGFZY3h5THdTWTNBaHUyYTBBPT0mdmFsaWRtaW51dGVzPTImaWQ9NQ==
+https://youtu.be/lS4NxTH3Gok
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
 http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8?token=94ff429fb0dcc9a162b489e43135cd342159652b-4f47cc58f42a08a85111599d02d09c62-1629978842-1629968042
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
