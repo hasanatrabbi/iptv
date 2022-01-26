@@ -197,7 +197,7 @@ http://208.86.19.21:80/710.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD 
 http://208.86.19.21:80/736.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports", Star Sports Select 2 HD
-http://208.86.19.21:80/737.stream/index.m3u8
+http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football
