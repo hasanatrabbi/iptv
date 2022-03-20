@@ -76,7 +76,9 @@ http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla", Ananda TV
 http://edge.thunderbd.com:8081/roarzone/16/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIyIDM6MDY6MjQgUE0maGFzaF92YWx1ZT11bnhnU0gxd0o4RlhTcTlOcm5DKytnPT0mdmFsaWRtaW51dGVzPTImaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports HD
-http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8	
+http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports 2
+http://103.136.200.246:8082/SP1/tracks-v1a1/mono.m3u8	
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla",T Sports
 http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",Peace Tv Bangla
