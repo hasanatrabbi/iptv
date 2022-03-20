@@ -235,7 +235,7 @@ http://58.65.194.14:1935/live/ZooMooHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports-2 [English]
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/68.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",Willow [English]
-http://208.86.19.21/731.stream/tracks-v1a1/mono.m3u8
+http://16live00.akamaized.net/WILLOW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Astro
 http://208.86.19.21/720.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",A Sports
