@@ -268,11 +268,11 @@ http://14.199.164.20:4001/play/a0m1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", Zing music
+#EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/channel/2014/06/11/zing1_0.jpg" group-title="Music", Zing music
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/mtv-hd.png" group-title="Music", MTV
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music", MTV Beats
+#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/mtv-beats.png" group-title="Music", MTV Beats
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-LIWaQ4KCYZ4/T4dVZzSDDNI/AAAAAAAAE6g/BIFAQHECNps/s1600/UTV+Bindass+logo.png" group-title="Music", Bindass
 http://103.55.144.46/hls/bindass.m3u8
