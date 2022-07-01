@@ -91,12 +91,17 @@ http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
 http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
 http://tv.fnfonlinebd.com/live/fnffeed1002/index.m3u8
-#EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 1
-http://tv.fnfonlinebd.com/live/fnffeed1005/index.m3u8
+#EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 1
+http://tv.fnfonlinebd.com/live/fnffeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 2
 http://tv.fnfonlinebd.com/live/fnffeed1004/index.m3u8
-#EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 3
+#EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 3
+http://tv.fnfonlinebd.com/live/fnffeed1005/index.m3u8
+#EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 4
 http://208.86.19.13:81/710.stream/index.m3u8
+#EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 5
+https://s5.vikistream.com:999/hls/skyscric-17764.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
 http://103.55.144.46/hls/colorsbangla.m3u8
@@ -234,7 +239,7 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports 2
 http://103.55.144.46/hls/ptv.m3u8
 #EXTINF:-151 tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png" group-title="SPORTS", Willow TV
-http://208.86.19.13:81/731.stream/index.m3u8
+https://s3.vikistream.com:999/hls/willowusa-31362.ts
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Astro
 http://208.86.19.13:81/707.stream/index.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",A Sports
@@ -244,9 +249,13 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Geo Super
 http://208.86.19.13:81/725.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/bein-sports-xtra.png" group-title="SPORTS", Bein Xtra
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/super-sport-cricket.png" group-title="SPORTS", Super Sports 
-https://s1.123zcast.me:8105/hd/hls/Uyf6YcW1xdOnmmE9tDrqnA/1654760287/superspcric.m3u8
+http://midesi.hopto.org:1947/SSC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/bt-sport-1-hd.png" group-title="SPORTS", BT Sports 1
+https://s5.vikistream.com:999/hls/bbtsp1-31281.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network English
 http://103.55.144.46/hls/cn.m3u8
