@@ -83,6 +83,7 @@ http://208.86.19.13:81/613.stream/index.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
 http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports 2
@@ -99,6 +100,7 @@ http://tv.fnfonlinebd.com/live/fnffeed1005/index.m3u8
 http://208.86.19.13:81/710.stream/index.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 5
 http://stream.amrbd.com:8082/T-Sports/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
@@ -125,8 +127,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1646661310-1681199.png" group-title="Bangla",Colors Bangla Cinema 
 http://208.86.19.13:81/907.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Bangla", Travel XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
@@ -174,6 +175,8 @@ http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Documentary", TLC
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/mn+.jpg" group-title="English", MN+
