@@ -48,7 +48,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV 
 http://bciptv.net:8082/ASIA-CUP-UAE-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV 2
-http://172.16.128.2:8081/live/sky1005/chunks.m3u8
+http://172.27.27.90:8080/tv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV 3
 http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Music", Gaan Bangla
@@ -138,7 +138,7 @@ http://bdiptv.net:8082/SONY-TEN-3-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Sports
 http://103.24.96.74/stream/tensports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-1-7y8rftmed9ur.jpg" group-title="Sports", Star Sports 1 HD
-http://30.30.30.30/live/skyfeed1011/index.m3u8
+http://tv.fnfonlinebd.com/live/fnffeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-2-9tcgsmhj7lv4.png" group-title="Sports",Star Sports 2
 http://30.30.30.30/live/skyfeed1012/index.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect1hd(1).png" group-title="Sports", Star Sports Select 1 HD 
