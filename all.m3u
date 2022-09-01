@@ -153,13 +153,15 @@ http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
 http://bciptv.net:8082/WILLOW-CRICKET-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/beinpremium1%20(1).png" group-title="Sports", Bein Premium
 http://bciptv.net:8082/BEIN-SPORTS-PREMIUM-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/beinpremium2%20(1).jpg" group-title="SPORTS", Bein 2 Premium
+http://bciptv.net:8082/BEIN-SPORTS-PREMIUM-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/bein-sports-xtra.png" group-title="SPORTS", Bein Xtra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/bt-sport-1-hd.png" group-title="SPORTS", BT Sports 1
 https://s1.123zcast.me:8106/hd/hls/qswSVA34WpaV_lDDEivdFA/1660892660/bbtsp1.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/bt-sport-3.png" group-title="SPORTS",BT Sports 3
 http://bdiptv.net:8082/BT-SPORTS-3-UK/index.m3u8
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/asp.jpg" group-title="SPORTS",A Sports
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/asp.jpg" group-title="SPORTS", A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",SkyNet 2
 http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
@@ -167,8 +169,7 @@ http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
 http://208.86.19.13:81/725.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/fox-cricket.png" group-title="Sports", Fox Cricket
 https://s1.merizaat.com:999/hls/fox501-26558.ts
-#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/super-sport-cricket.png" group-title="SPORTS", Super Sports 
-http://midesi.hopto.org:1947/SSC/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -178,7 +179,7 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
-http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
+http://bciptv.net:8082/star-plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #http://208.86.19.21:80/606.stream/index.m3u8
