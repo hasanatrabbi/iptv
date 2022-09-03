@@ -148,7 +148,7 @@ http://10.16.100.207:8088/sports/sportselect2_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://stream.amrbd.com:8082/PTV-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports 2
-http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:-151 tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png" group-title="SPORTS", Willow TV
 http://bciptv.net:8082/WILLOW-CRICKET-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/beinpremium1%20(1).png" group-title="Sports", Bein Premium
@@ -230,7 +230,7 @@ http://190.83.119.67:8000/play/a0qc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
-http://dangguli.live:8080/SonyPix/tracks-v1a1/mono.m3u8
+http://103.162.136.235:4500/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix
 http://103.87.212.110:8989/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/638187927059562496/qZpGnezv_400x400.jpg" group-title="English", Star World
@@ -240,13 +240,17 @@ http://stream.amrbd.com:8082/MNX-HD/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",Movies Now HD
-http://stream.amrbd.com:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
+http://103.162.136.235:4500/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD
 http://103.55.144.46:80/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English", Star Movies 
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English", WB
-http://30.30.30.30/live/skyfeed2008/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English", & Flix
+http://103.162.136.235:4500/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English", & Prive
+http://103.162.136.235:4500/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English", Zee Cafe
+http://103.162.136.235:4500/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/lotustv.jpg" group-title="English",Lotus Macau
@@ -263,19 +267,21 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay
 http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
-http://190.83.119.67:8000/play/a0pb/index.m3u8
+http://103.174.5.43:8000/play/a06m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon", Discovery Kids
-http://iptv.prosto.tv:7000/ch207/video.m3u8
+http://103.174.5.43:8000/play/a06j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Cartoon", Boomerang
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", Sonic Nickeloden
-http://51.210.199.11/hls/stream.m3u8
+http://103.162.136.235:4500/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo
-http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
+http://103.174.5.43:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Bangla Kids 
 http://14.199.164.20:4001/play/a0m1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Hungama 
+http://103.162.136.235:4500/play/a01h/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
