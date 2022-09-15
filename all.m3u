@@ -211,8 +211,8 @@ https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel 2
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/225px-Sony_BBC_Earth.png" group-title="Documentary", BBC Earth
+http://103.179.246.243:8000/play/a015
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic
 http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nationalgeographicpartners.com/app/uploads/2020/11/nat-geo-wild.jpg" group-title="Documentary", National Geographic Wild
@@ -234,7 +234,7 @@ http://103.179.246.243:8000/play/a016
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix
 http://103.87.212.110:8989/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/638187927059562496/qZpGnezv_400x400.jpg" group-title="English", Star World
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.179.246.243:8000/play/a00b
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/mnx-hd.jpg" group-title="English",MNX
 http://stream.amrbd.com:8082/MNX-HD/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
