@@ -128,7 +128,7 @@ http://stream.amrbd.com:8082/T-Sports/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
-http://223.29.212.14:8080/roarzone/24/index.m3u8
+http://103.179.246.243:8000/play/a00f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
 http://stream.amrbd.com:8082/Ten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg"group-title="Sports",Sony ten 2
@@ -225,8 +225,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/mn+.jpg" group-title="English", MN+
 http://stream.amrbd.com:8082/MN-Plus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English", Sony Movies
-http://190.83.119.67:8000/play/a0qc/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English", Romedy NOW
+http://103.179.246.243:8000/play/a01j
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
@@ -267,7 +267,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay
 http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
-http://103.174.5.43:8000/play/a06m/index.m3u8
+http://103.179.246.243:8000/play/a01y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon", Discovery Kids
 http://103.179.246.243:8000/play/a024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Cartoon", Boomerang
