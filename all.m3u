@@ -176,30 +176,29 @@ http://116.204.149.11:8000/play/a00l/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.162.136.235:4500/play/a00f/74816676.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
-http://bciptv.net:8082/star-plus/tracks-v1a1/mono.m3u8
+http://103.162.136.235:4500/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
-http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
-#http://208.86.19.21:80/606.stream/index.m3u8
+http://stream.amrbd.com:8082/Zee-Hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi", Indywood TV
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://stream.amrbd.com:8082/Colors-Cineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/Star%20Gold1656563517.png" group-title="Hindi", Star Gold
 http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="Hindi", UTV Movies
+http://103.162.136.235:4500/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/sony-sab.jpg" group-title="Hindi", Sony SAB
 http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2021/01/Utsav-Gold-250.png" group-title="Hindi", Utsav Gold
 http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/205883.ts
 
