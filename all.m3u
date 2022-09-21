@@ -98,7 +98,7 @@ http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
 http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD 2
-http://aliflailabd.live:8989/star-jalsha/index.m3u8
+http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha
 http://10.16.100.211/sports/stajalshaa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Star Jalsha Movies
@@ -226,28 +226,26 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://103.55.144.46/img/mn+.jpg" group-title="English", MN+
-http://stream.amrbd.com:8082/MN-Plus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English", Romedy NOW
-http://103.179.246.243:8000/play/a01j
-#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
 http://103.179.246.243:8000/play/a016
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix
 http://stream.amrbd.com:8082/SonyPix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English", Star Movies 
+http://103.179.246.243:8000/play/a00v
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD
+http://116.204.149.11:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/638187927059562496/qZpGnezv_400x400.jpg" group-title="English", Star World
 http://103.179.246.243:8000/play/a00b
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/mnx-hd.jpg" group-title="English",MNX
 http://stream.amrbd.com:8082/MNX-HD/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",Movies Now HD
 http://103.162.136.235:4500/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD
-http://116.204.149.11:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English", Star Movies 
-http://103.179.246.243:8000/play/a00v
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/mn+.jpg" group-title="English", MN+
+http://stream.amrbd.com:8082/MN-Plus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English", Romedy NOW
+http://103.179.246.243:8000/play/a01j
 #EXTINF:-1 tvg-logo="" group-title="English", & Flix
 http://103.162.136.235:4500/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English", & Prive
@@ -256,6 +254,8 @@ http://jupiter.bdcabletv.com/AndpriveHD/video.m3u8
 http://103.162.136.235:4500/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/lotustv.jpg" group-title="English",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QXBOkb3" group-title="English" ,Global Fashon
