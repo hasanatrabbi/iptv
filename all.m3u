@@ -198,8 +198,8 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://103.55.144.46/img/dhin.jpg" group-title="Hindi", Dhingchak
-http://103.55.144.46/hls/dhin.m3u8
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2021/01/Utsav-Gold-250.png" group-title="Hindi", Utsav Gold
+http://tslower.rfdte99.com:2082/live/Yazid11_886588/UsyHmr4Y/205883.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
