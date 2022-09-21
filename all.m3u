@@ -14,7 +14,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla", Asian TV 
 http://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla", Bijoy TV
-http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
+http://10.16.100.203:8082/bangla/bij0ytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
 http://10.16.100.203:8082/bangla/b0ishaki.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ql_wezJxlQU/mqdefault.jpg" group-title="Bangla", Boishakhi TV Plus
@@ -318,4 +318,4 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ndtv-24.png" group-title="News", test
-http://bdiptv.net:8282/GAZI-TV-HD/tracks-v1a1/2022/09/21/04/58/29-06000.ts
+http://141.94.163.47:80/live/goss5846/232211vb/703.ts
