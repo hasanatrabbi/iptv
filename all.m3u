@@ -193,8 +193,8 @@ http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="Hindi", UTV Movies
 http://103.162.136.235:4500/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi", Zee Action
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2020/02/zee-tv-vector-logo.png" group-title="Hindi", Zee TV
+http://103.162.136.235:4500/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/sony-sab.jpg" group-title="Hindi", Sony SAB
 http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
