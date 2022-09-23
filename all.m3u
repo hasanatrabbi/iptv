@@ -176,7 +176,7 @@ http://50.7.237.4:8080/WWE/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
+http://50.7.237.4:8080/SONY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
 http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87281
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
