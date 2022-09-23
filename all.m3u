@@ -183,7 +183,7 @@ http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87281
 http://103.162.136.235:4500/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 http://stream.amrbd.com:8082/Zee-Hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Indywood TV
+#EXTINF:-1 tvg-logo="https://indywood.co.in/videothumb/indytv21495606046.png" group-title="Hindi", Indywood TV
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://stream.amrbd.com:8082/Colors-Cineplex/tracks-v1a1/mono.m3u8
