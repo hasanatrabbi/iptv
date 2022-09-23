@@ -148,7 +148,7 @@ http://10.16.100.207:8088/sports/sportselect2_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://stream.amrbd.com:8082/PTV-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports 2
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
 #EXTINF:-151 tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png" group-title="Sports", Willow TV
 http://quality-restream.com:8080/live/asadmanzur/39e379b23d/2372.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports", Bein Premium
@@ -193,8 +193,8 @@ http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="Hindi", UTV Movies
 http://103.162.136.235:4500/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2020/02/zee-tv-vector-logo.png" group-title="Hindi", Zee TV
-http://103.162.136.235:4500/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_action.png" group-title="Hindi", Zee Action
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/sony-sab.jpg" group-title="Hindi", Sony SAB
 http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
@@ -291,7 +291,7 @@ http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87382
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/channel/2014/06/11/zing1_0.jpg" group-title="Music", Zing music
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/mtv-hd.png" group-title="Music", MTV
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47230
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/mtv-beats.png" group-title="Music", MTV Beats
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music", 9XM
