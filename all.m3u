@@ -165,7 +165,7 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" group-title="SPORTS",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Astro_Cricket.png" group-title="SPORTS",Astro Cricket
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="SPORTS",Astro Cricket
 http://quality-restream.com:8080/live/asadmanzur/39e379b23d/157565.ts
 #EXTINF:-1 tvg-logo="" group-title="Sports", RT Sports
 http://103.162.136.235:4500/play/a03c/index.m3u8
