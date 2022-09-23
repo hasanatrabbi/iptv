@@ -251,15 +251,15 @@ http://103.162.136.235:4500/play/a00c/index.m3u8
 http://jupiter.bdcabletv.com/AndpriveHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png" group-title="English", Zee Cafe
 http://103.162.136.235:4500/play/a003/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Rush_NZ_TV_logo.png" group-title="English", Rush Channel
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/79-797341_website-red-bull-tv-icon.png" group-title="English", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/lotustv.jpg" group-title="English",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QXBOkb3" group-title="English" ,Global Fashon
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/467-4676695_global-fashion-group-logo-hd-png-download.png" group-title="English" , Global Fashon
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QXBOkb3" group-title="English",WFC TV
+#EXTINF:-1 tvg-logo="https://ikomg.com/wp-content/uploads/2021/09/wfc-300x167.png" group-title="English",WFC TV
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87222 fashion tv
 
@@ -300,7 +300,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",Masti
 http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87383
-#EXTINF:0 tvg-logo="" group-title="Music",Dil Se
+#EXTINF:0 tvg-logo="https://images.jdmagicbox.com/events/A473113/A473113_list_20180831144037.jpg" group-title="Music",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
 
