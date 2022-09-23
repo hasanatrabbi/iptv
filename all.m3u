@@ -151,12 +151,12 @@ http://stream.amrbd.com:8082/PTV-Sports/tracks-v1a1/mono.m3u8
 http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
 #EXTINF:-151 tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png" group-title="Sports", Willow TV
 http://quality-restream.com:8080/live/asadmanzur/39e379b23d/2372.m3u8
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="Sports", Bein Premium
-http://bciptv.net:8082/BEIN-SPORTS-PREMIUM-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports", BEIN Sports 1
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3587
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png" group-title="Sports", Bein 2 Premium
 http://bciptv.net:8082/BEIN-SPORTS-PREMIUM-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/bein-sports-xtra.png" group-title="Sports", Bein Xtra
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/be/e2/98/bee2983f87fd7f9f5cd063790a26a284.png" group-title="Sports", SKY SPORTS MAIN EVENT
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/788
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/bt-sport-1-hd.png" group-title="Sports", BT Sports 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/bt-sport-3.png" group-title="Sports",BT Sports 3
