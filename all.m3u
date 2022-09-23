@@ -245,11 +245,11 @@ http://103.162.136.235:4500/play/a00a/index.m3u8
 http://stream.amrbd.com:8082/MN-Plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English", Romedy NOW
 http://103.179.246.243:8000/play/a01j
-#EXTINF:-1 tvg-logo="" group-title="English", & Flix
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2018/05/andflix-logo_4.jpg" group-title="English", & Flix
 http://103.162.136.235:4500/play/a00c/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English", & Prive
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="English", & Prive
 http://jupiter.bdcabletv.com/AndpriveHD/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English", Zee Cafe
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png" group-title="English", Zee Cafe
 http://103.162.136.235:4500/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
