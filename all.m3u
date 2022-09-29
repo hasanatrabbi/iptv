@@ -255,6 +255,10 @@ https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/lotustv.jpg" group-title="English",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="English",MBC Action
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2168
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mbc-2-logo-734482AC24-seeklogo.com.png" group-title="English",MBC 2
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/315
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/467-4676695_global-fashion-group-logo-hd-png-download.png" group-title="English" , Global Fashon
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://ikomg.com/wp-content/uploads/2021/09/wfc-300x167.png" group-title="English",WFC TV
