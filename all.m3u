@@ -229,6 +229,8 @@ http://stream.amrbd.com:8082/SonyPix/tracks-v1a1/mono.m3u8
 http://103.162.136.235:4500/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/178-1783775_hbo-logo-hbo-png.png" group-title="English",HBO 
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46929
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/359-3594870_star-movies-logo-vector-fox-movies-premium-logo.png" group-title="English", Star Movies 
 http://103.179.246.243:8000/play/a00v
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="English", Star Movies Select HD
@@ -259,6 +261,8 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2168
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mbc-2-logo-734482AC24-seeklogo.com.png" group-title="English",MBC 2
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/315
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/63477317550795.562bb5ff00ce2.jpg" group-title="English",MBC Max
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46371
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/467-4676695_global-fashion-group-logo-hd-png-download.png" group-title="English" , Global Fashon
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://ikomg.com/wp-content/uploads/2021/09/wfc-300x167.png" group-title="English",WFC TV
