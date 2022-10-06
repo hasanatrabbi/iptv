@@ -46,7 +46,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV 
 http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV 2
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://103.121.14.18/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV 3
 http://103.102.27.172:6464/Channel-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Music", Gaan Bangla
@@ -295,7 +295,7 @@ http://103.162.136.235:4500/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DblJJDWQC20/maxresdefault.jpg" group-title="Music", B4U Music
 http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87382
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/channel/2014/06/11/zing1_0.jpg" group-title="Music", Zing music
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
+http://50.7.237.4:8080/ZING/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/mtv-hd.png" group-title="Music", MTV
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47230
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/mtv-beats.png" group-title="Music", MTV Beats
