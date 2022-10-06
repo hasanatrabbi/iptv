@@ -232,7 +232,7 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/178-1783775_hbo-logo-hbo-png.png" group-title="English",HBO 
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46929
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/359-3594870_star-movies-logo-vector-fox-movies-premium-logo.png" group-title="English", Star Movies 
-http://103.99.249.107:81/play/a00o
+http://iptvtree.net:8080/86488e81/5e48c38fdd/11511
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="English", Star Movies Select HD
 http://116.204.149.11:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/638187927059562496/qZpGnezv_400x400.jpg" group-title="English", Star World
