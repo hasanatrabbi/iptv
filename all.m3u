@@ -90,9 +90,9 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50252
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
 http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/432
+http://50.7.237.4:8080/ZEEBANGLAHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Bangla", Zee Bangla Cinema
-http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
+http://50.7.237.4:8080/ZEEBANGLACINEMA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD 2
@@ -136,7 +136,7 @@ http://103.162.136.235:4500/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Sports
 http://172.16.50.2:8082/Ten-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-1-7y8rftmed9ur.jpg" group-title="Sports", Star Sports 1 HD
-http://stream.amrbd.com:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
+https://cdn1.mkhossain.ga/hls/star1en/.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-2-9tcgsmhj7lv4.png" group-title="Sports",Star Sports 2
 http://stream.amrbd.com:8082/Star-Sports-2/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect1hd(1).png" group-title="Sports", Star Sports Select 1 HD 
@@ -226,7 +226,7 @@ https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
 http://stream.amrbd.com:8082/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix
-http://103.162.136.235:4500/play/a00m/index.m3u8
+http://50.7.237.4:8080/SONYPIXHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/178-1783775_hbo-logo-hbo-png.png" group-title="English",HBO 
