@@ -86,7 +86,7 @@ http://50.7.237.4:8080/ZEEBANGLAHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Bangla", Zee Bangla Cinema
 http://50.7.237.4:8080/ZEEBANGLACINEMA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
+http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD 2
 http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies
@@ -116,7 +116,7 @@ http://tv.fnfonlinebd.com/live/fnffeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 http://103.162.136.235:4500/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://stream.amrbd.com:8082/Ten1/tracks-v1a1/mono.m3u8
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136578
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg"group-title="Sports",Sony ten 2
 http://stream.amrbd.com:8082/Ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
@@ -166,7 +166,7 @@ http://50.7.237.4:8080/WWE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 http://50.7.237.4:8080/SONY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/426
+http://103.99.249.107:81/play/a00v
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
 http://103.162.136.235:4500/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
