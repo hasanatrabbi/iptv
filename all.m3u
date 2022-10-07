@@ -153,6 +153,8 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/788
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/bt-sport-1-hd.png" group-title="Sports", BT Sports 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1647385004/1540.png" group-title="Sports", BT Sports 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/bt-sport-3.png" group-title="Sports",BT Sports 3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/asp.jpg" group-title="Sports", A Sports
@@ -163,8 +165,8 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://quality-restream.com:8080/live/asadmanzur/39e379b23d/157565.ts
 #EXTINF:-1 tvg-logo="" group-title="Sports", RT Sports
 http://103.162.136.235:4500/play/a03c/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports", Sky Sport Cricket
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/785
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1183694362003333121/QFOu58UE_400x400.jpg" group-title="Sports", Geo Super
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/WWE-logo-99A1233D25-seeklogo.com.png" group-title="Sports", WWE
 http://50.7.237.4:8080/WWE/index.m3u8
 
@@ -222,7 +224,7 @@ https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
 http://stream.amrbd.com:8082/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix
-http://103.162.136.235:4500/play/a00m/index.m3u8
+http://50.7.237.4:8080/SONYPIXHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/178-1783775_hbo-logo-hbo-png.png" group-title="English",HBO 
@@ -267,9 +269,9 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87339
+http://50.7.237.4:8080/CARTOONNETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay
-http://103.55.144.46/hls/dis-kid.m3u8
+http://50.7.237.4:8080/SONYYAY/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
 http://103.179.246.243:8000/play/a01y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon", Discovery Kids
@@ -277,7 +279,7 @@ http://103.179.246.243:8000/play/a024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Cartoon", Boomerang
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", Sonic Nickeloden
-http://103.162.136.235:4500/play/a01k/index.m3u8
+http://50.7.237.4:8080/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo
 http://103.162.136.235:4500/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick
