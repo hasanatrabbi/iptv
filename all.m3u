@@ -32,7 +32,7 @@ http://208.86.19.13:81/614.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
-http://223.29.212.14:8080/roarzone/8/index.m3u8
+http://edge.thunderbd.com:8081/roarzone/8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIyIDI6NDM6NDIgUE0maGFzaF92YWx1ZT1qSVN1Q3Vyb2pBQjFheS9aOE9vL053PT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD 2
 http://10.16.100.203:8082/bangla/deepto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
