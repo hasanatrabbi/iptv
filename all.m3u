@@ -174,7 +174,7 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://stream.amrbd.com:8082/Colors-Cineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/952-9525147_kings-xi-punjab-star-gold-channel-logo.png" group-title="Hindi", Star Gold
 http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="Hindi", UTV Movies
