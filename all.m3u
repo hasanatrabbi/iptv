@@ -26,17 +26,13 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/131625
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla", Desh TV
-http://jupiter.bdcabletv.com/Desh-TV/video.m3u8
+http://edge.thunderbd.com:8081/roarzone/9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIyIDI6NDY6NDggUE0maGFzaF92YWx1ZT1rVTIzS3B0aHBqOFpEcjFqU0w4dGl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
 http://208.86.19.13:81/614.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
 http://edge.thunderbd.com:8081/roarzone/8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIyIDI6NDM6NDIgUE0maGFzaF92YWx1ZT1qSVN1Q3Vyb2pBQjFheS9aOE9vL053PT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD 2
-http://10.16.100.203:8082/bangla/deepto.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
-http://223.29.212.14:8080/roarzone/10/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ekattor.tv/image/catalog/Logo/ekattor-logo-new.png" group-title="Bangla",Ekattor TV
@@ -46,7 +42,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV 
 http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV 2
-http://103.121.14.18/hls/Gazi-TV.m3u8
+http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Music", Gaan Bangla
 http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla", Independent TV
