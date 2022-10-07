@@ -96,9 +96,7 @@ http://50.7.237.4:8080/ZEEBANGLACINEMA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD 2
-http://familyplus.me:8080/live/younes123/123456/216748.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50229
+http://103.16.24.54:8080/channel5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies
 http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
@@ -107,22 +105,20 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
-http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports 2
-http://stream.amrbd.com:8082/Local-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
-http://tv.fnfonlinebd.com/live/fnffeed1002/index.m3u8
+http://stream.amrbd.com:8082/Local-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports 2
+http://103.99.249.107:81/play/a02k
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 1
 http://tv.fnfonlinebd.com/live/fnffeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 2
-http://tv.fnfonlinebd.com/live/fnffeed1004/index.m3u8
+http://tv.fnfonlinebd.com/live/fnffeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 3
-http://tv.fnfonlinebd.com/live/fnffeed1005/index.m3u8
+http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 4
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/4557
+http://tv.fnfonlinebd.com/live/fnffeed1004/index.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 5
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50058
+http://tv.fnfonlinebd.com/live/fnffeed1005/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
@@ -130,7 +126,7 @@ http://103.162.136.235:4500/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
 http://stream.amrbd.com:8082/Ten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg"group-title="Sports",Sony ten 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2906
+http://stream.amrbd.com:8082/Ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
 http://103.162.136.235:4500/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Sports
@@ -142,7 +138,7 @@ http://stream.amrbd.com:8082/Star-Sports-2/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect1hd(1).png" group-title="Sports", Star Sports Select 1 HD 
 http://stream.amrbd.com:8082/Star-Select-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect2hd.png" group-title="Sports", Star Sports Select 2 HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/447
+http://stream.amrbd.com:8082/Star-Select-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
 http://stream.amrbd.com:8082/PTV-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports 2
@@ -226,7 +222,7 @@ https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
 http://stream.amrbd.com:8082/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix
-http://50.7.237.4:8080/SONYPIXHD/tracks-v1a1/index.m3u8
+http://103.162.136.235:4500/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/178-1783775_hbo-logo-hbo-png.png" group-title="English",HBO 
