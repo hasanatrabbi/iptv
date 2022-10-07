@@ -64,11 +64,9 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangla", Nagorik TV 
 http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
-http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8
+http://208.86.19.13:81/652.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV EU
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
-http://208.86.19.13:81/652.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangla",Rtv
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Somoy TV
@@ -147,8 +145,8 @@ http://quality-restream.com:8080/live/asadmanzur/39e379b23d/2372.m3u8
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3587
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/logo-16x9-final.png" group-title="Sports", BEIN Xtra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/be/e2/98/bee2983f87fd7f9f5cd063790a26a284.png" group-title="Sports", SKY SPORTS MAIN EVENT
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/788
+#EXTINF:-1 tvg-logo="https://www.sunnewsonline.com/wp-content/uploads/2019/05/super-sports.png" group-title="Sports", Super Sports
+http://103.162.136.235:4500/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/bt-sport-1-hd.png" group-title="Sports", BT Sports 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1647385004/1540.png" group-title="Sports", BT Sports 2
@@ -156,7 +154,7 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/bt-sport-3.png" group-title="Sports",BT Sports 3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/asp.jpg" group-title="Sports", A Sports
-http://103.99.249.107:81/play/golfsports
+http://208.86.19.13:81/602.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" group-title="Sports",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="Sports",Astro Cricket
