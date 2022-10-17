@@ -28,7 +28,7 @@ http://208.86.19.13:81/614.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
-http://edge.thunderbd.com:8081/roarzone/8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIyIDI6NDM6NDIgUE0maGFzaF92YWx1ZT1qSVN1Q3Vyb2pBQjFheS9aOE9vL053PT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ==
+http://edge.thunderbd.com:8081/roarzone/8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
 http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ekattor.tv/image/catalog/Logo/ekattor-logo-new.png" group-title="Bangla",Ekattor TV
@@ -84,7 +84,7 @@ http://50.7.237.4:8080/ZEEBANGLACINEMA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
 http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD 2
-http://103.16.24.54:8080/channel5/index.m3u8
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies
 http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath
