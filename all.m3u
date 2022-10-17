@@ -191,7 +191,7 @@ http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/225px-Sony_BBC_Earth.png" group-title="Documentary", BBC Earth
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48192
+http://50.7.237.4:8080/BBCEARTHHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic
 http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nationalgeographicpartners.com/app/uploads/2020/11/nat-geo-wild.jpg" group-title="Documentary", National Geographic Wild
@@ -207,11 +207,11 @@ https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
 http://stream.amrbd.com:8082/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix
-http://50.7.237.4:8080/SONYPIXHD/index.m3u8
+http://50.7.237.4:8080/SONYPIXHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/178-1783775_hbo-logo-hbo-png.png" group-title="English",HBO 
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46929
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/380-3809575_seeking-music-for-hbo-hbo-logo-high-res.png" group-title="English",HBO 
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/359-3594870_star-movies-logo-vector-fox-movies-premium-logo.png" group-title="English", Star Movies 
 http://iptvtree.net:8080/86488e81/5e48c38fdd/11511
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="English", Star Movies Select HD
@@ -227,9 +227,9 @@ http://stream.amrbd.com:8082/MN-Plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English", Romedy NOW
 http://103.179.246.243:8000/play/a01j
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2018/05/andflix-logo_4.jpg" group-title="English", & Flix
-http://103.162.136.235:4500/play/a00c/index.m3u8
+http://50.7.237.4:8080/ANDFLIXHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="English", & Prive
-http://jupiter.bdcabletv.com/AndpriveHD/video.m3u8
+http://50.7.237.4:8080/ANDPRIVEHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png" group-title="English", Zee Cafe
 http://103.162.136.235:4500/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Rush_NZ_TV_logo.png" group-title="English", Rush Channel
