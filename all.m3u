@@ -125,10 +125,8 @@ http://15.1.5.10:8082/ten3/tracks-v1a1/mono.m3u8
 http://172.16.50.2:8082/Ten-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-1-7y8rftmed9ur.jpg" group-title="Sports", Star Sports 1 HD
 http://stream.amrbd.com:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-1-7y8rftmed9ur.jpg" group-title="Sports", Star Sports 1 HD
-#http://nayeem-parvez.chadasaniya.cf:8080/hls/Star-Sports-Bangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-2-9tcgsmhj7lv4.png" group-title="Sports",Star Sports 2
-http://208.86.19.13:81/715.stream/index.m3u8
+http://15.1.5.14:8082/STAR-SPORTS-2/index.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect1hd(1).png" group-title="Sports", Star Sports Select 1 HD 
 http://stream.amrbd.com:8082/Star-Select-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect2hd.png" group-title="Sports", Star Sports Select 2 HD
@@ -143,7 +141,7 @@ http://quality-restream.com:8080/live/asadmanzur/39e379b23d/2372.m3u8
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/logo-16x9-final.png" group-title="Sports", BEIN Xtra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.sunnewsonline.com/wp-content/uploads/2019/05/super-sports.png" group-title="Sports", Super Sports
-http://14.192.129.138:8000/play/a007/index.m3u8
+http://iptvtree.net:8080/ace2524d/15a571c413/11637
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/bt-sport-1-hd.png" group-title="Sports", BT Sports 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1647385004/1540.png" group-title="Sports", BT Sports 2
