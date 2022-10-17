@@ -150,28 +150,24 @@ http://208.86.19.13:81/602.stream/index.m3u8
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="Sports",Astro Cricket
 http://quality-restream.com:8080/live/asadmanzur/39e379b23d/157565.ts
-#EXTINF:-1 tvg-logo="" group-title="Sports", RT Sports
-http://103.162.136.235:4500/play/a03c/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1183694362003333121/QFOu58UE_400x400.jpg" group-title="Sports", Geo Super
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/WWE-logo-99A1233D25-seeklogo.com.png" group-title="Sports", WWE
 http://50.7.237.4:8080/WWE/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi", Sony Entertainment HD
 http://50.7.237.4:8080/SONY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-http://103.99.249.107:81/play/a00v
+http://15.1.5.10:8082/colorsindia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
 http://103.162.136.235:4500/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 http://stream.amrbd.com:8082/Zee-Hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://indywood.co.in/videothumb/indytv21495606046.png" group-title="Hindi", Indywood TV
-https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://stream.amrbd.com:8082/Colors-Cineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8 
+http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/952-9525147_kings-xi-punjab-star-gold-channel-logo.png" group-title="Hindi", Star Gold
 http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="Hindi", UTV Movies
@@ -183,7 +179,7 @@ http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2021/01/Utsav-Gold-250.png" group-title="Hindi", Utsav Gold
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51375
+http://50.7.237.4:8080/STARPLUS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
@@ -242,17 +238,11 @@ https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/lotustv.jpg" group-title="English",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="English",MBC Action
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2168
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mbc-2-logo-734482AC24-seeklogo.com.png" group-title="English",MBC 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/315
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/63477317550795.562bb5ff00ce2.jpg" group-title="English",MBC Max
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46371
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/467-4676695_global-fashion-group-logo-hd-png-download.png" group-title="English" , Global Fashon
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://ikomg.com/wp-content/uploads/2021/09/wfc-300x167.png" group-title="English",WFC TV
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87222 fashion tv
+####http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87222 fashion tv
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network
