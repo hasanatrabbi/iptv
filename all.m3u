@@ -74,15 +74,15 @@ http://172.16.50.2:8082/colorsbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1646661310-1681199.png" group-title="Bangla",Colors Bangla Cinema 
 http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
-http://bdiptv.net:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
+http://15.1.5.18:8082/enterr10-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
 http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD 2
-http://xtream.efiberbd.net:8080/live/mkaua/stream/5.m3u8
+http://172.16.50.2:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Bangla", Zee Bangla Cinema
-http://xtream.efiberbd.net:8080/live/mkaua/stream/10.m3u8
+http://172.16.50.2:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD
-http://xtream.efiberbd.net:8080/live/mkaua/stream/6.m3u8
+http://172.16.50.2:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha HD 2
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies
@@ -123,15 +123,15 @@ http://15.1.5.10:8082/sony-six-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-1-7y8rftmed9ur.jpg" group-title="Sports", Star Sports 1 HD
 http://stream.amrbd.com:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-2-9tcgsmhj7lv4.png" group-title="Sports",Star Sports 2
-http://15.1.5.14:8082/STAR-SPORTS-2/index.m3u8
+http://172.16.50.2:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect1hd(1).png" group-title="Sports", Star Sports Select 1 HD 
 http://stream.amrbd.com:8082/Star-Select-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect2hd.png" group-title="Sports", Star Sports Select 2 HD
 http://stream.amrbd.com:8082/Star-Select-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports
-http://113.203.194.217:7021/play/a02g/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports 2
 http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports 2
+http://15.1.1.34:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-151 tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png" group-title="Sports", Willow TV
 http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253670
 #EXTINF:-151 tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png" group-title="Sports", Willow TV
