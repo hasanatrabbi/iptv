@@ -216,7 +216,7 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/380-3809575_seeking-music-for-hbo-hbo-logo-high-res.png" group-title="English",HBO 
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/359-3594870_star-movies-logo-vector-fox-movies-premium-logo.png" group-title="English", Star Movies 
-http://iptvtree.net:8080/86488e81/5e48c38fdd/11511
+http://15.1.5.14:8082/star-movies-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="English", Star Movies Select HD
 http://116.204.149.11:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/638187927059562496/qZpGnezv_400x400.jpg" group-title="English", Star World
@@ -224,7 +224,7 @@ http://103.179.246.243:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-logo-300x300.jpg" group-title="English",MNX
 http://stream.amrbd.com:8082/MNX-HD/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/08/movies-now-logo11-1-2-2.jpg" group-title="English", Movies Now HD
-http://103.162.136.235:4500/play/a00a/index.m3u8
+http://12.1.1.1:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/mn-plus-hd-tv-channel-logo-150x150.jpg" group-title="English", MN+
 http://stream.amrbd.com:8082/MN-Plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English", Romedy NOW
@@ -241,7 +241,7 @@ https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/lotustv.jpg" group-title="English",Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/467-4676695_global-fashion-group-logo-hd-png-download.png" group-title="English" , Global Fashon
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/467-4676695_global-fashion-group-logo-hd-png-download.png" group-title="English" , Global Fashion
 http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://ikomg.com/wp-content/uploads/2021/09/wfc-300x167.png" group-title="English",WFC TV
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
@@ -275,15 +275,15 @@ http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87382
 #EXTINF:-1 tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/channel/2014/06/11/zing1_0.jpg" group-title="Music", Zing music
 http://50.7.237.4:8080/ZING/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/mtv-hd.png" group-title="Music", MTV
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47230
-#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/mtv-beats.png" group-title="Music", MTV Beats
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+http://172.16.50.2:8082/Mtv/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/9X_Jalwa_2012.jpg" group-title="Music", 9X Jalwa
+http://172.16.50.2:8082/9X-Jalwa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music", 9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Sangeet_Bangla_2021.jpg" group-title="Music", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",Masti
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87383
+#EXTINF:0 tvg-logo="http://live1.dhakaflix.com/assets/images/zoommusic.jpg" group-title="Music", Zoom
+http://172.16.50.2:8082/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://images.jdmagicbox.com/events/A473113/A473113_list_20180831144037.jpg" group-title="Music",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
