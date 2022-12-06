@@ -140,7 +140,7 @@ http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253717
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/logo-16x9-final.png" group-title="Sports", BEIN Xtra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", BeinSport 1
-http://premiumip.tv:8000/live/u5l04cavw4/comyx6eboz/9480.ts
+http://172.16.50.2:8082/Bein-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/bt-sport-1-hd.png" group-title="Sports", BT Sports 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1647385004/1540.png" group-title="Sports", BT Sports 2
@@ -159,9 +159,9 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
 http://50.7.237.4:8080/WWE/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi", Sony Entertainment HD
-http://50.7.237.4:8080/SONY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Hindi", Sony Entertainment HD
+http://12.1.1.1:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Hindi", Colors HD
 http://15.1.5.10:8082/colorsindia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
 http://103.162.136.235:4500/play/a00d/index.m3u8
@@ -194,11 +194,11 @@ http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/225px-Sony_BBC_Earth.png" group-title="Documentary", BBC Earth
-http://50.7.237.4:8080/BBCEARTHHD/tracks-v1a1/index.m3u8
+http://172.16.50.2:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic
 http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nationalgeographicpartners.com/app/uploads/2020/11/nat-geo-wild.jpg" group-title="Documentary", National Geographic Wild
-https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
+http://15.1.5.14:8082/natgeo-wild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Documentary", TLC
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP
@@ -207,10 +207,10 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix HD
 http://stream.amrbd.com:8082/SonyPix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix
-http://50.7.237.4:8080/SONYPIXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix
+http://15.1.5.14:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/380-3809575_seeking-music-for-hbo-hbo-logo-high-res.png" group-title="English",HBO 
