@@ -90,7 +90,7 @@ http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies
 http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MzgxDQf0/SONY-AATH.jpg" group-title="Bangla",Sony Aath
-https://tv.bdflix.xyz/Sony-Aath/tracks-v1a1/mono.m3u8
+http://172.16.50.2:8082/Sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/duronto-tv.png" group-title="Bangla", Rongeen
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 
@@ -212,7 +212,7 @@ https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix HD
 https://tv.bdflix.xyz/Sony_Pix/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix
-http://15.1.5.14:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
+http://172.16.50.2:8082/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/380-3809575_seeking-music-for-hbo-hbo-logo-high-res.png" group-title="English",HBO 
