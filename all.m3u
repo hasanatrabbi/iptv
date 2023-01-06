@@ -102,9 +102,9 @@ http://dotfli.live/s-1-tsports/tracks-v2a1/mono.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 1
 http://175.107.244.52:4457/play/a06z/index.m3u8
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 2
-http://103.102.27.173/live/tvfeed1003/index.m3u8
+http://supermega.vip:25461/cheryl/cheryl/56761
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 3
-http://103.102.27.173/live/tvfeed1004/index.m3u8
+http://supermega.vip:25461/cheryl/cheryl/57493
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 4
 http://103.102.27.173/live/tvfeed1005/index.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 5
@@ -157,11 +157,11 @@ http://208.86.19.13:81/602.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" group-title="Sports",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="Sports",Astro Cricket
-http://quality-restream.com:8080/live/asadmanzur/39e379b23d/157565.ts
+http://supermega.vip:25461/cheryl/cheryl/231004
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1183694362003333121/QFOu58UE_400x400.jpg" group-title="Sports", Geo Super
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/WWE-logo-99A1233D25-seeklogo.com.png" group-title="Sports", WWE
-http://50.7.237.4:8080/WWE/index.m3u8
+http://supermega.vip:25461/cheryl/cheryl/199590
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Hindi", Sony Entertainment HD
