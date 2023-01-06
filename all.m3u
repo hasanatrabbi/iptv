@@ -213,8 +213,6 @@ http://12.1.1.1:8082/SonyPix/tracks-v1a1/mono.m3u8
 http://172.16.50.2:8082/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/380-3809575_seeking-music-for-hbo-hbo-logo-high-res.png" group-title="English",HBO 
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/359-3594870_star-movies-logo-vector-fox-movies-premium-logo.png" group-title="English", Star Movies 
 http://15.1.5.14:8082/star-movies-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="English", Star Movies Select HD
@@ -264,7 +262,7 @@ http://50.7.237.4:8080/NICKELODEON/index.m3u8
 http://103.162.136.235:4500/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Bangla Kids 
+#EXTINF:-1 tvg-logo="" group-title="Cartoon", Bangla Kids 
 http://14.199.164.20:4001/play/a0m1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Hungama 
 http://103.162.136.235:4500/play/a01h/index.m3u8
