@@ -18,7 +18,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
 http://172.16.50.2:8082/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 HD
-http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
+http://humiptv.live:8080/live/RkAdhikari/Raju5555/434.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
