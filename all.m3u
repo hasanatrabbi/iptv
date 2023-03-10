@@ -143,7 +143,7 @@ http://ys-users.com:8080/live/Srussell/Vqz2EfBh5r/377943.m3u8
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/logo-16x9-final.png" group-title="Sports", BEIN Xtra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", BeinSport 1
-http://89.38.99.141/1/index.m3u8
+http://103.167.167.5:8111/play/a02m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports", Bein Sports 2
 http://89.38.99.141/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Fox_Sports_2_logo.png/225px-Fox_Sports_2_logo.png" group-title="Sports", Fox Sports 2
@@ -161,25 +161,23 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Hindi", Sony Entertainment HD
-http://12.1.1.1:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+http://172.16.50.2:8082/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Hindi", Colors HD
 http://15.1.5.10:8082/colorsindia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
-http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+http://15.1.5.10:8082/star-plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
-http://stream.amrbd.com:8082/Zee-Hd/tracks-v1a1/mono.m3u8
+http://15.1.5.10:8082/zee-tv-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
-http://stream.amrbd.com:8082/Colors-Cineplex/tracks-v1a1/mono.m3u8
+http://15.1.5.18:8082/colorscineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/952-9525147_kings-xi-punjab-star-gold-channel-logo.png" group-title="Hindi", Star Gold
-http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="Hindi", UTV Movies
-http://103.162.136.235:4500/play/a00z/index.m3u8
+http://15.1.5.22:8082/star-gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_action.png" group-title="Hindi", Zee Action
 http://208.86.19.13:81/7288.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/sony-sab.jpg" group-title="Hindi", Sony SAB
-http://208.86.19.13:81/7022.stream/index.m3u8
+http://15.1.5.18:8082/SONY-SUB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 
@@ -214,18 +212,18 @@ http://172.16.50.2:8082/SonyPix/tracks-v1a1/mono.m3u8
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/359-3594870_star-movies-logo-vector-fox-movies-premium-logo.png" group-title="English", Star Movies 
 http://15.1.5.14:8082/star-movies-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="English", Star Movies Select HD
-http://116.204.149.11:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English", Star 1
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/638187927059562496/qZpGnezv_400x400.jpg" group-title="English", Star World
 http://103.179.246.243:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-logo-300x300.jpg" group-title="English",MNX
 http://stream.amrbd.com:8082/MNX-HD/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/08/movies-now-logo11-1-2-2.jpg" group-title="English", Movies Now HD
-http://12.1.1.1:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/movies-now/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/mn-plus-hd-tv-channel-logo-150x150.jpg" group-title="English", MN+
-http://stream.amrbd.com:8082/MN-Plus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English", Romedy NOW
-http://103.179.246.243:8000/play/a01j
+http://15.1.5.10:8082/mn-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English", Moviebox
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox-avc1_1900000=3.m3u8
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2018/05/andflix-logo_4.jpg" group-title="English", & Flix
 http://50.7.237.4:8080/ANDFLIXHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="English", & Prive
@@ -252,7 +250,7 @@ http://50.7.237.4:8080/SONYYAY/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
 http://103.179.246.243:8000/play/a01y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon", Discovery Kids
-http://103.179.246.243:8000/play/a024
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/5232d4f2-ad07-47ce-8fbb-f892273b0d38/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Cartoon", Boomerang
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", Sonic Nickeloden
@@ -261,6 +259,7 @@ http://50.7.237.4:8080/NICKELODEON/index.m3u8
 http://103.162.136.235:4500/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#http://172.16.50.2:8082/nike/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cartoon", Bangla Kids 
 http://14.199.164.20:4001/play/a0m1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Hungama 
