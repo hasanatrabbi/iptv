@@ -105,17 +105,17 @@ https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 3
 http://adamtvonline.com:8080/111111111111/222222222222/240599
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 4
-http://supermega.vip:25461/cheryl/cheryl/56759
+https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/182066a2-ff12-4649-8257-9b7ab253b446/0.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 5
-https://tv.freeseries.eu.org/live.php?c=Jio_Cricket_English&q=800&e=.m3u8
+http://starshare.live:8080/live/120220920/120220920/769.ts
 
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_SD.png" group-title="Sports", SONY Sports 1
 http://172.16.50.2:8082/Ten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_SD.png"group-title="Sports", SONY Sports 2
-https://tv.freeseries.eu.org/live.php?c=Ten_2&q=800&e=.m3u8
+http://175.107.244.52:4455/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_SD.png" group-title="Sports", SONY Sports 3
-https://tv.freeseries.eu.org/live.php?c=Ten_3&q=800&e=.m3u8
+http://15.1.5.10:8082/ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="Sports", SONY Sports 4
 https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png" group-title="Sports", SONY Sports 5
@@ -151,7 +151,7 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/asp.jpg" group-title="Sports", A Sports
 http://208.86.19.13:81/602.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" group-title="Sports",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+http://15.1.5.18:8082/tv14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="Sports",Astro Cricket
 http://supermega.vip:25461/cheryl/cheryl/231004
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1183694362003333121/QFOu58UE_400x400.jpg" group-title="Sports", Geo Super
