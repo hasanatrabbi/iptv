@@ -203,19 +203,17 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix HD
-http://12.1.1.1:8082/SonyPix/tracks-v1a1/mono.m3u8
+http://15.1.5.18:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix
 http://172.16.50.2:8082/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/359-3594870_star-movies-logo-vector-fox-movies-premium-logo.png" group-title="English", Star Movies 
 http://15.1.5.14:8082/star-movies-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English", Star 1
-http://redlabmcdn.s.llnwi.net/nv02/bs09hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/638187927059562496/qZpGnezv_400x400.jpg" group-title="English", Star World
 http://103.179.246.243:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-logo-300x300.jpg" group-title="English",MNX
-http://stream.amrbd.com:8082/MNX-HD/tracks-v1/mono.m3u8
+http://tv.basnetbd.com:8080/roarzone/39/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/08/movies-now-logo11-1-2-2.jpg" group-title="English", Movies Now HD
 http://15.1.5.14:8082/movies-now/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/mn-plus-hd-tv-channel-logo-150x150.jpg" group-title="English", MN+
