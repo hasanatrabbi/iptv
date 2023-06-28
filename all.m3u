@@ -190,17 +190,16 @@ http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/225px-Sony_BBC_Earth.png" group-title="Documentary", BBC Earth
-http://172.16.50.2:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
+http://15.1.5.18:8082/BBC-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic
-http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8
+http://15.1.5.18:8082/ngohd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nationalgeographicpartners.com/app/uploads/2020/11/nat-geo-wild.jpg" group-title="Documentary", National Geographic Wild
-http://15.1.5.14:8082/natgeo-wild/tracks-v1a1/mono.m3u8
+http://15.1.5.10:8082/natgeo-wild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Documentary", TLC
-https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
+http://172.16.50.2:8082/TLC_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/541/615/png-transparent-food-food-indian-cuisine-television-channel-india-television-food-text.png" group-title="Documentary", Food
-https://ft-ifood-roku.amagi.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix HD
