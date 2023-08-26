@@ -126,11 +126,11 @@ http://humiptv.live:8080/live/Antonio123/Antonio123/98.ts
 
 
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-1-7y8rftmed9ur.jpg" group-title="Sports", Star Sports 1 HD
-http://15.1.5.14:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+http://tv.basnetbd.com:8080/roarzone/25/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-2-9tcgsmhj7lv4.png" group-title="Sports",Star Sports 2
-http://15.1.5.14:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+http://tv.basnetbd.com:8080/roarzone/26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect1hd(1).png" group-title="Sports", Star Sports Select 1 HD 
-http://15.1.5.22:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+http://tv.basnetbd.com:8080/roarzone/27/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect2hd.png" group-title="Sports", Star Sports Select 2 HD
 http://tv.basnetbd.com:8080/roarzone/28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",A Sports
