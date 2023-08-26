@@ -119,7 +119,7 @@ http://tv.basnetbd.com:8080/roarzone/22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="Sports", SONY Sports 4
 http://15.1.5.14:8082/sony-six/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png" group-title="Sports", SONY Sports 5
-http://freecatv-manik.xyz/BD-Sports-2.m3u8
+http://tv.basnetbd.com:8080/roarzone/24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Sports
 http://humiptv.live:8080/live/Antonio123/Antonio123/98.ts
 
