@@ -103,7 +103,7 @@ http://10.10.10.2/live/fnffeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 2
 http://181.78.8.90:16123/play/ch16
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 3
-http://181.233.124.38:80/BBrown384/564657344453/1847084.ts
+http://tv.basnetbd.com:8080/roarzone/37/tracks-v1a1/mono.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 4
 http://humiptv.live:8080/live/Antonio123/Antonio123/1856.ts
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 5
@@ -136,7 +136,7 @@ http://tv.basnetbd.com:8080/roarzone/28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",A Sports
 http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports
-https://m3u-editor.com/serve/msr-sagor-sports1/913960518
+http://10.10.10.2/live/fnffeed1005/index.m3u8
 #EXTINF:-151 tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png" group-title="Sports", Willow 
 http://humiptv.live:8080/live/Antonio123/Antonio123/215.ts
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="Sports",Astro Cricket
