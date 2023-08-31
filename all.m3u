@@ -97,7 +97,7 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w816006548.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
 http://tv.basnetbd.com:8080/roarzone/102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports 2
-http://freecatv-manik.xyz/BDtsports.m3u8
+https://live.tsports.com/mobile_hls/tsports_live/index.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 1
 http://10.10.10.2/live/fnffeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 2
@@ -105,9 +105,9 @@ http://181.78.8.90:16123/play/ch16
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 3
 http://tv.basnetbd.com:8080/roarzone/37/tracks-v1a1/mono.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 4
-http://humiptv.live:8080/live/Antonio123/Antonio123/1856.ts
+http://14.102.123.50:4000/play/a048
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 5
-http://humiptv.live:8080/live/Antonio123/Antonio123/5040.ts
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_SD.png" group-title="Sports", SONY Sports 1
