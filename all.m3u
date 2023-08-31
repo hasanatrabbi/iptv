@@ -135,6 +135,8 @@ http://tv.basnetbd.com:8080/roarzone/27/tracks-v1a1/mono.m3u8
 http://tv.basnetbd.com:8080/roarzone/28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",A Sports
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295025
+
+http://175.107.244.52:4456/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/16633
 #EXTINF:-151 tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png" group-title="Sports", Willow 
@@ -209,7 +211,7 @@ http://172.16.50.2:8082/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/359-3594870_star-movies-logo-vector-fox-movies-premium-logo.png" group-title="English", Star Movies 
-http://15.1.5.14:8082/star-movies-hd/tracks-v1a1/mono.m3u8
+http://103.209.173.14:8080/proxy/ts?slug=pcKhl2Ixu/j03Q97YmLALJVzlKY1LHA0Sx2qZGvHdcQ%3D&base=t2S2ugkaD/qDs5nhnHMEhDuP5eJMhYMb3%2BmMTYyZ5RQ%3D&absolute=False&headers=fLPU6J3hiXhMiuEZ2ONJ5Q%3D%3D
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/638187927059562496/qZpGnezv_400x400.jpg" group-title="English", Star World
 http://103.179.246.243:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-logo-300x300.jpg" group-title="English",MNX
@@ -221,7 +223,7 @@ http://15.1.5.10:8082/mn-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English", Moviebox
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox-avc1_1900000=3.m3u8
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2018/05/andflix-logo_4.jpg" group-title="English", & Flix
-http://50.7.237.4:8080/ANDFLIXHD/index.m3u8
+http://14.102.123.50:4000/play/a04w
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="English", & Prive
 http://50.7.237.4:8080/ANDPRIVEHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png" group-title="English", Zee Cafe
@@ -254,7 +256,7 @@ http://50.7.237.4:8080/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo
 http://103.162.136.235:4500/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick
-https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+http://154.58.202.18:8080/nick/index.m3u8
 #http://172.16.50.2:8082/nike/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cartoon", Bangla Kids 
 http://14.199.164.20:4001/play/a0m1/index.m3u8
