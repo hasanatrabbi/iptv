@@ -121,7 +121,7 @@ http://15.1.5.14:8082/sony-six/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png" group-title="Sports", SONY Sports 5
 http://tv.basnetbd.com:8080/roarzone/24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Sports
-http://humiptv.live:8080/live/Antonio123/Antonio123/98.ts
+http://pakin2.worldtvip.co:9090/ind2_ten_sports_pk/tracks-v1a1/mono.m3u8
 
 
 
@@ -150,11 +150,11 @@ https://msr_sagor@m4iswbjnhzrz.fordems.live/live/for-dems1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports", Bein Sports 2
 http://freecatv-manik.xyz/beIN-SPORTS-2.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Fox_Sports_2_logo.png/225px-Fox_Sports_2_logo.png" group-title="Sports", Fox Sports 2
-http://181.78.8.90:16123/play/ch20
+http://cpk-2.asu.lol:8080/SK_AU_501/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" group-title="Sports",Dubai Sports 2
 http://15.1.5.18:8082/tv14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", ATN PLUS CRICKET HD
-http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/85829.m3u8
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", ATN Afganistan
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
