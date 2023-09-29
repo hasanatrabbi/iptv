@@ -74,7 +74,7 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla
 http://tv.basnetbd.com:8080/roarzone/66/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1646661310-1681199.png" group-title="Bangla",Colors Bangla Cinema 
-http://103.141.2.37:25461/web/web/599
+http://172.21.22.2:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155774&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD 2
