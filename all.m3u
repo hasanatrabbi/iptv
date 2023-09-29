@@ -116,7 +116,7 @@ http://tv.basnetbd.com:8080/roarzone/21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_SD.png" group-title="Sports", SONY Sports 3
 http://tv.basnetbd.com:8080/roarzone/22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="Sports", SONY Sports 4
-http://15.1.5.14:8082/sony-six/tracks-v1a1/mono.m3u8
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png" group-title="Sports", SONY Sports 5
 http://tv.basnetbd.com:8080/roarzone/24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Sports
@@ -133,26 +133,19 @@ http://tv.basnetbd.com:8080/roarzone/27/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect2hd.png" group-title="Sports", Star Sports Select 2 HD
 http://tv.basnetbd.com:8080/roarzone/28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",A Sports
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295025
+http://175.107.244.52:4456/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/16633
-
-#http://175.107.244.52:4456/play/a04p/index.m3u8
-
-#EXTINF:-151 tvg-logo="https://willowcricket.live/wp-content/uploads/2020/03/guhkm.png" group-title="Sports", Willow 
-http://humiptv.live:8080/live/Antonio123/Antonio123/215.ts
+http://172.21.22.2:8082/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="Sports",Astro Cricket
-http://humiptv.live:8080/live/Antonio123/Antonio123/2494.ts
+http://172.21.22.2:8082/Astro-Cricket/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/logo-16x9-final.png" group-title="Sports", BEIN Xtra
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", BeinSport 1
-https://msr_sagor@m4iswbjnhzrz.fordems.live/live/for-dems1/chunks.m3u8
+http://172.21.22.2:8082/BEIN-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports", Bein Sports 2
 http://freecatv-manik.xyz/beIN-SPORTS-2.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Fox_Sports_2_logo.png/225px-Fox_Sports_2_logo.png" group-title="Sports", Fox Sports 2
-http://cpk-2.asu.lol:8080/SK_AU_501/tracks-v1a1/mono.m3u8
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/55.ts
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" group-title="Sports",Dubai Sports 2
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", ATN PLUS CRICKET HD
