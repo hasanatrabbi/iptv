@@ -16,13 +16,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
-http://tv.basnetbd.com:8080/roarzone/6/tracks-v1a1/mono.m3u8
+https://bd.jagobd.com:444/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 HD
-http://tv.basnetbd.com:8080/roarzone/4/tracks-v1a1/mono.m3u8
+http://172.21.22.2:8082/Channel_9_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
-http://tv.basnetbd.com:8080/roarzone/7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto TV HD
@@ -30,9 +28,9 @@ https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/1/0/9106398594f6e1193e4d25cae0a80f3b_icon.jpg" group-title="Bangla", Desh TV
-http://tv.basnetbd.com:8080/roarzone/9/tracks-v1a1/mono.m3u8
+http://172.21.22.2:8082/Desh_TV_SD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartoon", Duronto TV 
-http://tv.basnetbd.com:8080/roarzone/10/tracks-v1a1/mono.m3u8
+http://172.21.22.2:8082/Duronto-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ekattor.tv/image/catalog/Logo/ekattor-logo-new.png" group-title="Bangla",Ekattor TV
 http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://backoffice.ekhon.tv/media/common/logo-fb.png" group-title="Bangla",Ekhon TV
@@ -52,7 +50,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangla", Mohona TV HD
-http://tv.basnetbd.com:8080/roarzone/50/tracks-v1a1/mono.m3u8
+http://172.21.22.2:8082/Mohona_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla", My TV BD
 http://bd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangla", Nagorik TV 
@@ -60,7 +58,7 @@ http://tv.basnetbd.com:8080/roarzone/59/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla", News 24 HD
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
-http://tv.basnetbd.com:8080/roarzone/54/tracks-v1a1/mono.m3u8
+http://172.21.22.2:8082/NTV_SD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangla",Rtv
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Somoy TV
