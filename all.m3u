@@ -40,7 +40,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV 
-http://10.10.10.2/live/fnffeed1004/index.m3u8
+http://xtv.ooo:8080/live/cormorant/cormorant/245901.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV 2
 http://103.175.242.10:8080/live/gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Music", Gaan Bangla
