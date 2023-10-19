@@ -96,7 +96,7 @@ http://xtv.ooo:8080/live/cormorant/cormorant/167590.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports 2
 https://live.tsports.com/mobile_hls/tsports_live/index.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 1
-http://10.10.10.2/live/fnffeed1004/index.m3u8
+http://10.10.10.2/live/fnffeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 2
 http://172.21.22.2:8082/Espn-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 3
