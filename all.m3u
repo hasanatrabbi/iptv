@@ -4,7 +4,7 @@ http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.atnnewstv.com/assets/img/logo.png" group-title="Bangla", ATN News
-http://tv.basnetbd.com:8080/roarzone/49/tracks-v1a1/mono.m3u8
+http://172.21.22.2:8082/ATN_News_SD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ananda-tv.png" group-title="Bangla", Ananda TV
 https://bd.jagobd.com:444/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.asiantv.com.bd/logo.png" group-title="Bangla", Asian TV 
