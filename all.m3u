@@ -10,7 +10,7 @@ https://bd.jagobd.com:444/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.asiantv.com.bd/logo.png" group-title="Bangla", Asian TV 
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://boishakhionline.com/static/public/frontend_source/assets/images/logo.png" group-title="Bangla", Boishakhi TV
-https://live.sonarbanglatv.com/boishakhi/boishakhitv.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhi.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ql_wezJxlQU/mqdefault.jpg" group-title="Bangla", Boishakhi TV Plus
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
