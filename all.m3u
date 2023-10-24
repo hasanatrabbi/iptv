@@ -25,8 +25,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto TV HD
 https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto TV
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/1/0/9106398594f6e1193e4d25cae0a80f3b_icon.jpg" group-title="Bangla", Desh TV
 http://172.21.22.2:8082/Desh_TV_SD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartoon", Duronto TV 
@@ -61,10 +59,10 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://172.21.22.2:8082/NTV_SD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangla",Rtv
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.satv.tv/wp-content/uploads/2021/08/satv-logo-1.jpg" group-title="Bangla", SATV
+http://172.21.22.2:8082/SA_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Somoy TV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.satv.tv/wp-content/uploads/2021/08/satv-logo-1.jpg" group-title="Bangla", SATV
-http://tv.basnetbd.com:8080/roarzone/15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",Peace Tv Bangla
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
