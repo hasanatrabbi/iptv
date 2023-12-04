@@ -102,7 +102,7 @@ http://195.26.87.217/live.ts?channelId=294&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 4
 https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 5
-http://195.26.87.217/live.ts?channelId=302&uid=3453&deviceMac=00:1A:79:01:04:AC
+http://195.26.87.217/live.ts?channelId=40481&uid=3453&deviceMac=00:1A:79:01:04:AC
 
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_SD.png" group-title="Sports", SONY Sports 1
@@ -136,11 +136,11 @@ http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", BeinSport 1
-http://172.21.22.2:8082/BEIN-1/tracks-v1a1/mono.m3u8
+http://www.goldentv.tech:80/play/9qEcc8U-tW5bAHHbQw4gJID3mygzeP0xNjvH4sva1ME/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports", Bein Sports 2
-http://freecatv-manik.xyz/beIN-SPORTS-2.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Fox_Sports_2_logo.png/225px-Fox_Sports_2_logo.png" group-title="Sports", Fox Sports 2
-http://xtv.ooo:8080/live/cormorant/cormorant/167593.ts
+http://195.26.87.217/live.ts?channelId=125427&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Fox_Cricket_Logo.png/150px-Fox_Cricket_Logo.png" group-title="Sports", Fox Sports
+http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d9ef18eb544187cf05ce58ad3e2a4db1.png" group-title="Sports",Dubai Sports 2
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", ATN PLUS CRICKET HD
