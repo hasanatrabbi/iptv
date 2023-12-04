@@ -96,13 +96,13 @@ https://live.tsports.com/mobile_hls/tsports_live/index.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 1
 http://10.10.10.2/live/fnffeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 2
-http://195.26.87.217/live.ts?channelId=281&uid=3453&deviceMac=00:1A:79:01:04:AC
+http://195.26.87.217/live.ts?channelId=102479&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 3
 http://195.26.87.217/live.ts?channelId=294&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 4
 https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 5
-http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+http://195.26.87.217/live.ts?channelId=302&uid=3453&deviceMac=00:1A:79:01:04:AC
 
 
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_SD.png" group-title="Sports", SONY Sports 1
@@ -110,9 +110,9 @@ http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_SD.png"group-title="Sports", SONY Sports 2
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_SD.png" group-title="Sports", SONY Sports 3
-http://tv.basnetbd.com:8080/roarzone/22/tracks-v1a1/mono.m3u8
+http://195.26.87.217/live.ts?channelId=291&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="Sports", SONY Sports 4
-http://xtv.ooo:8080/live/cormorant/cormorant/167595.ts
+http://195.26.87.217/live.ts?channelId=105349&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png" group-title="Sports", SONY Sports 5
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Sports
@@ -122,13 +122,13 @@ http://195.26.87.217/live.ts?channelId=301&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-1-7y8rftmed9ur.jpg" group-title="Sports", Star Sports 1 HD
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-2-9tcgsmhj7lv4.png" group-title="Sports",Star Sports 2
-http://xtv.ooo:8080/live/cormorant/cormorant/167576.ts
+http://103.141.2.37:25461/live/web/web/581.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect1hd(1).png" group-title="Sports", Star Sports Select 1 HD 
-http://172.21.22.2:8082/Star_Sport_Select1HD/index.m3u8
+http://103.141.2.37:25461/live/web/web/579.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/files/starsportsselect2hd.png" group-title="Sports", Star Sports Select 2 HD
-http://172.21.22.2:8082/select2/tracks-v1a1/mono.m3u8
+http://103.141.2.37:25461/live/web/web/583.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",A Sports
-http://15.1.1.34:8082/6LIVE/tracks-v1a1/mono.m3u8?token=45a92255525a9353c7489c0b18e6e5ae27d15123-78c6cd29e863679342bb430720fa7d4a-1698171334-1698160534
+http://195.26.87.217/live.ts?channelId=12217&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports
 http://195.26.87.217/live.ts?channelId=279&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="Sports",Astro Cricket
