@@ -98,7 +98,7 @@ http://10.10.10.2/live/fnffeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 2
 http://172.21.22.2:8082/Espn-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports",Sports 3
-http://172.21.22.2:8082/Sky-Cricket/tracks-v1a1/mono.m3u8
+http://195.26.87.217/live.ts?channelId=294&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 4
 https://rabi.durbinlive.com/dw.php?m3u8=https://mprod-cdn.toffeelive.com/iccwc2023/match-1/master_850.m3u8
 #EXTINF:-1tvg-logo="https://webdesignerdrops.com/wp-content/uploads/2013/08/Sport-Center.jpg" group-title="Sports", Sports 5
@@ -130,7 +130,7 @@ http://172.21.22.2:8082/select2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",A Sports
 http://15.1.1.34:8082/6LIVE/tracks-v1a1/mono.m3u8?token=45a92255525a9353c7489c0b18e6e5ae27d15123-78c6cd29e863679342bb430720fa7d4a-1698171334-1698160534
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/ptv-sports.jpg" group-title="Sports",PTV Sports
-http://172.21.22.2:8082/ptv/tracks-v1a1/mono.m3u8
+http://195.26.87.217/live.ts?channelId=279&uid=3453&deviceMac=00:1A:79:01:04:AC
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png" group-title="Sports",Astro Cricket
 http://15.1.1.38:8082/4LIVE/tracks-v1a1/mono.m3u8?token=81e26bba7a13d105f9b8d822ff7a2b8e6c8d0996-ee74cd84e0a33a82c498611ef399c7d3-1698171264-1698160464
 
