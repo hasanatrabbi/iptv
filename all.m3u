@@ -4,11 +4,11 @@ http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.atnnewstv.com/assets/img/logo.png" group-title="Bangla", ATN News
-http://172.21.22.2:8082/ATN_News_SD/tracks-v1a1/mono.m3u8
+https://cdn8.aliflailabd.com/atn-news/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ananda-tv.png" group-title="Bangla", Ananda TV
 https://bd.jagobd.com:444/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.asiantv.com.bd/logo.png" group-title="Bangla", Asian TV 
-http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+http://livetvbox.live:8080/live/Juan/Juan/430.ts
 #EXTINF:-1 tvg-logo="https://boishakhionline.com/static/public/frontend_source/assets/images/logo.png" group-title="Bangla", Boishakhi TV
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ql_wezJxlQU/mqdefault.jpg" group-title="Bangla", Boishakhi TV Plus
@@ -52,7 +52,7 @@ http://172.21.22.2:8082/Mohona_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla", My TV BD
 http://172.21.22.2:8082/My_Tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangla", Nagorik TV 
-http://tv.basnetbd.com:8080/roarzone/bk/59/index.m3u8?token=8328c756c6e6e2a7e1d1d524a89318a365b3bdc9-6bc34ee90bf832ce56270a14cd95a87c-1698179865-1698158265
+https://cdn8.aliflailabd.com/Nagorik-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla", News 24 HD
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
@@ -68,19 +68,19 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla
-http://172.21.22.2:8082/colorsbangla/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1646661310-1681199.png" group-title="Bangla",Colors Bangla Cinema 
-http://172.21.22.2:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
+https://cdn8.aliflailabd.com/colors-bangla-cinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155774&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD 2
-http://172.21.22.2:8082/zeebanglahd/tracks-v1a1/mono.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Bangla", Zee Bangla Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla", Star Jalsha 2
-http://172.21.22.2:8082/starjalsha/tracks-v1a1/mono.m3u8
+https://cdn8.aliflailabd.com/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Jalsha Movies
 http://172.21.22.2:8082/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MzgxDQf0/SONY-AATH.jpg" group-title="Bangla",Sony Aath
@@ -193,6 +193,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix HD
+https://cdn8.aliflailabd.com/Sony-PIX/index.m3u8
 http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
