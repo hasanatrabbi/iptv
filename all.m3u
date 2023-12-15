@@ -151,54 +151,53 @@ http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Hindi", Sony Entertainment HD
 https://cdn8.aliflailabd.com/Sony-entertainment/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Hindi", Colors
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus
-https://1rdk.short.gy/Star-Plus/Himel-Op
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV
-https://cdn8.aliflailabd.com/zee-tv-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex
-https://cdn8.aliflailabd.com/colors-cineplex-bollywood/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Set Max
 https://cdn8.aliflailabd.com/Sony-max-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/sony-sab.jpg" group-title="Hindi", Sony SAB
+https://cdn8.aliflailabd.com/sony-sab-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2020/01/new-logo-header-1.png" group-title="Hindi", Colors
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex
+https://cdn8.aliflailabd.com/colors-cineplex-bollywood/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus
+https://1rdk.short.gy/Star-Plus/Himel-Op
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/952-9525147_kings-xi-punjab-star-gold-channel-logo.png" group-title="Hindi", Star Gold
 https://1rdk.short.gy/Star-Gold/Himel-Op
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV
+https://cdn8.aliflailabd.com/zee-tv-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_action.png" group-title="Hindi", Zee Action
-http://208.86.19.13:81/7288.stream/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/sony-sab.jpg" group-title="Hindi", Sony SAB
-http://15.1.5.18:8082/SONY-SUB/tracks-v1a1/mono.m3u8
+https://cdn8.aliflailabd.com/zee-action/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
-http://15.1.5.22:8082/animalplanent/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tv.mobistream.co.za/uploads/jpg/fc93c4557615bcee97ff9fcfa7231f1a.jpg" group-title="Documentary", Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+https://1rdk.short.gy/Animal-Planet-Muti/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery
-http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+https://cdn8.aliflailabd.com/discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/225px-Sony_BBC_Earth.png" group-title="Documentary", BBC Earth
+http://195.26.87.217/live.ts?channelId=25893&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Documentary", BBC Earth
 http://15.1.5.18:8082/BBC-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic
-http://15.1.5.18:8082/ngohd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nationalgeographicpartners.com/app/uploads/2020/11/nat-geo-wild.jpg" group-title="Documentary", National Geographic Wild
-http://15.1.5.10:8082/natgeo-wild/tracks-v1a1/mono.m3u8
+https://cdn8.aliflailabd.com/nat-geo-abudhabi/index.m3u8
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/bbb2b897" group-title="Documentary" , NATIONAL GEOGRAPHIC WILD
+http://195.26.87.217/live.ts?channelId=4237&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Documentary", TLC
-http://172.16.50.2:8082/TLC_World/tracks-v1a1/mono.m3u8
+http://195.26.87.217/live.ts?channelId=4209&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix HD
+http://livetvbox.live:8080/live/Juan/Juan/98846.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix HD 2
 https://cdn8.aliflailabd.com/Sony-PIX/index.m3u8
-http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201908/star_movies-logo_3.png.jpg" group-title="English", Star Movies 
-http://195.26.87.217/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://livetvbox.live:8080/live/Juan/Juan/98842.ts
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/200/62162_star-hd.jpg" group-title="English", Star Movies Select
 http://195.26.87.217/live.ts?channelId=199&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-logo-300x300.jpg" group-title="English",MNX
@@ -209,11 +208,11 @@ http://103.141.2.37:25461/live/web/web/562.m3u8
 http://103.141.2.37:25461/live/web/web/571.m3u8
 
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2018/05/andflix-logo_4.jpg" group-title="English", & Flix
-http://14.102.123.50:4000/play/a04w
+http://livetvbox.live:8080/live/Juan/Juan/98841.ts
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg" group-title="English", & Prive
-http://50.7.237.4:8080/ANDPRIVEHD/index.m3u8
+http://livetvbox.live:8080/live/Juan/Juan/98840.ts
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png" group-title="English", Zee Cafe
-http://103.162.136.235:4500/play/a003/index.m3u8
+https://cdn8.aliflailabd.com/zee-cafe/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Rush_NZ_TV_logo.png" group-title="English", Rush Channel
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/79-797341_website-red-bull-tv-icon.png" group-title="English", Redbull TV
