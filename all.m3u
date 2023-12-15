@@ -216,37 +216,31 @@ https://cdn8.aliflailabd.com/zee-cafe/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Rush_NZ_TV_logo.png" group-title="English", Rush Channel
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/79-797341_website-red-bull-tv-icon.png" group-title="English", Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+https://cdn8.aliflailabd.com/Redbull-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/lotustv.jpg" group-title="English",Lotus Macau
-http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/467-4676695_global-fashion-group-logo-hd-png-download.png" group-title="English" , Global Fashion
-http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://ikomg.com/wp-content/uploads/2021/09/wfc-300x167.png" group-title="English",WFC TV
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-####http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87222 fashion tv
+https://cdn8.aliflailabd.com/lotus-macau/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="English" , Fashion
+http://195.26.87.217/live.ts?channelId=125468&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay
-http://50.7.237.4:8080/SONYYAY/index.m3u8
+http://195.26.87.217/live.ts?channelId=78849&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
-http://103.179.246.243:8000/play/a01y
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon", Discovery Kids
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/5232d4f2-ad07-47ce-8fbb-f892273b0d38/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Cartoon", Boomerang
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", Sonic Nickeloden
-http://50.7.237.4:8080/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo
-http://103.162.136.235:4500/play/a01i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick
-http://154.58.202.18:8080/nick/index.m3u8
-#http://172.16.50.2:8082/nike/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cartoon", Bangla Kids 
-http://14.199.164.20:4001/play/a0m1/index.m3u8
+https://1rdk.short.gy/Disney-IN/Himel-Op
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Hungama 
-http://103.162.136.235:4500/play/a01h/index.m3u8
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CtS75sn.png" group-title="Cartoon", Boomerang
+http://195.26.87.217/live.ts?channelId=125663&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", Sonic Nickeloden
+http://195.26.87.217/live.ts?channelId=40476&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo
+http://195.26.87.217/live.ts?channelId=256&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FB8gKf2/hdpluslogo100x100.png" group-title="Cartoon", Nick +
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+#http://172.16.50.2:8082/nike/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DblJJDWQC20/maxresdefault.jpg" group-title="Music", B4U Music
@@ -270,12 +264,12 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/al-jazeera.png" group-title="News", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fa/93/ea/fa93ea13c52677f6f730bcecf5073104--top-tv-tv-channels.jpg" group-title="News", DW
-https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/live-orgin/dwnews.stream/chunks.m3u8
+https://cdn8.aliflailabd.com/DW/index.m3u8https://cdn8.aliflailabd.com/DW/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/bbcworld.jpg" group-title="News", BBC
-http://stream.amrbd.com:8082/BBC_World/tracks-v1a1/mono.m3u8
+http://195.26.87.217/live.ts?channelId=47112&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/cnn-international-usa.png" group-title="News", CNN
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ndtv-24.png" group-title="News", NVTV 24X7
+http://195.26.87.217/live.ts?channelId=50&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/ndtv-24.png" group-title="News", NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:-1 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/sm/nhk-world.png" group-title="News", NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
